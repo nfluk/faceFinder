@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'Roboto', monospace;
   background: linear-gradient(89deg, #5dd9ff 0%, #ebd036 100%);
 }
 
